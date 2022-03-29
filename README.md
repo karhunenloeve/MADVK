@@ -6,7 +6,7 @@ To calculate the absorbed radiation dose in dosimetry, Monte Carlo simulations a
 
 ## Citation
 
-[Luciano Melodia (2018): Deep Learning Estimation of Absorbed Dose for Nuclear Medicine Diagnostics. University of Regensburg, Master Thesis.](https://arxiv.org/abs/1805.09108).
+[Luciano Melodia (2018): Deep Learning Estimation of Absorbed Dose for Nuclear Medicine Diagnostics. University of Regensburg, Master Thesis.](https://arxiv.org/abs/1805.09108)
 
     @thesis{MADVK2018,
      author    = "Luciano Melodia",
