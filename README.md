@@ -18,10 +18,10 @@ To calculate the absorbed radiation dose in dosimetry, Monte Carlo simulations a
      url       = "https://arxiv.org/abs/1805.09108",
     }
     
-## Utilised tools
+## Requirements
+
+**Versions:** ```matplotlib 3.5.1```, ```keras 2.8.0```, ```numpy 1.22.3```, ```Pillow 9.0.1```, ```scipy 1.8.0```, ```tensorflow 2.8.0```, ```scikit-learn 0.0.20```
 
 * [Keras](https://keras.io/) - Keras Tensorflow Wrapper.
 * [Scikit-Learn](http://scikit-learn.org/stable/index.html/) – some preprocessing.
 * [Tensorflow](https://www.tensorflow.org/) – Tensorflow as backend.
-
-```matplotlib 3.5.1```, ```keras 2.8.0```, ```numpy 1.22.3```, ```Pillow 9.0.1```, ```scipy 1.8.0```, ```tensorflow 2.8.0```, ```scikit-learn 0.0.20```
